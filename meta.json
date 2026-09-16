@@ -1,0 +1,23 @@
+{
+  "repo": "easeus-partition-master-full",
+  "product": "EaseUS Partition Master Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "partition",
+  "topics": [
+    "easeus-partition-master",
+    "disk-map-resize",
+    "os-migrate-windows",
+    "partition-master-2026",
+    "how-to-install-partition-master",
+    "partition-master-package",
+    "disk-clone-suite",
+    "alignment-check-desk",
+    "volume-merge-tools",
+    "easeus-partition-guide"
+  ],
+  "site": "toolix.me"
+}
